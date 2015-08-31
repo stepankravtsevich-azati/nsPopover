@@ -9,7 +9,8 @@
   "main": [
     "src/nsPopover.js",
     "sass/ns-popover.scss",
-    "less/ns-popover.less"
+    "less/ns-popover.less",
+    "dist/*"
   ],
   "keywords": [
     "angularjs",
