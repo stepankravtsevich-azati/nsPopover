@@ -10,7 +10,8 @@
     "src/nsPopover.js",
     "sass/ns-popover.scss",
     "less/ns-popover.less",
-    "dist/*"
+    "dist/nsPopover.css",
+    "dist/nsPopover.js"
   ],
   "keywords": [
     "angularjs",
