@@ -1,6 +1,6 @@
 {
-  "name": "nsPopover",
-  "version": "0.6.8.0",
+  "name": "dangeruponu-nsPopover",
+  "version": "0.6.8",
   "homepage": "https://github.com/dangeruponu/nsPopover",
   "description": "Popover for angularjs library",
   "authors": [
@@ -29,6 +29,6 @@
     ".idea"
   ],
   "dependencies": {
-    "angular": "~1.2.9"
+    "angular": "~1.4.9"
   }
 }
